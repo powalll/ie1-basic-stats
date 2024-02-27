@@ -46,4 +46,4 @@ Make sure that you have a JDK installed and that the JAVA_HOME environment varia
 
 
 ### VIVIENNE
-CS 520 Edit
+CS 520 Edit Continued Edit
